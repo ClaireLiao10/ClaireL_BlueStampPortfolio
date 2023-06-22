@@ -5,8 +5,6 @@ Want to take a tissue from this tissue box? Well, too bad! This tissue box will 
 |:--:|:--:|:--:|:--:|
 | Claire L | Basis Independent Silicon Valley | Mechanical Engineering | Incoming Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image](Claire_Headshot.png)
 
 # Starter Project
