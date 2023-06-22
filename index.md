@@ -7,7 +7,7 @@ Want to take a tissue from this tissue box? Well, too bad! This tissue box will 
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](https://mail.google.com/mail/u/0?ui=2&ik=95db226692&attid=0.1&permmsgid=msg-f:1769353250282888465&th=188e01681d4b5d11&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9VXiCsnpr4Xbd8tLbNJRECfjmeayohWV3kfYP89spKu6qEvhCxkns2-TIw-PFMdd1cMrVMd0DFVlircC0Gt7WQeuctm77tsD2GIDWTyHQpTnh03sd5CZFWSfM&disp=emb&realattid=ii_lj6ahuke0)
 
 # Starter Project
 For my starter project, I originally supposed to work on the Arduino clock, however due a few mistakes that I made, I had a change of plans. Although I didn't end up finishing the Arduino clock, I learned a lot. For example, I learned to follow instructions very closely and to solder everything. For example, the microcontroller was not fully soldered, due to the fact that I thought the microcontroller only needed to be soldered at the ends. Due to the microcontroller not being fully soldered, the LED display would also need to be desoldered, which is why I ended up making a Robot Badge which has two lights that blink.
