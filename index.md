@@ -5,7 +5,7 @@ Want to take a tissue from this tissue box? Well, too bad! This tissue box will 
 |:--:|:--:|:--:|:--:|
 | Claire L | Basis Independent Silicon Valley | Mechanical Engineering | Incoming Sophomore
 
-![Headstone Image](Claire_Headshot.svg)
+![Headstone Image](Claire-Headshot.png)
 
 # Starter Project
 For my starter project, I originally supposed to work on the Arduino clock, however due a few mistakes that I made, I had a change of plans. Although I didn't end up finishing the Arduino clock, I learned a lot. For example, I learned to follow instructions very closely and to solder everything. For example, the microcontroller was not fully soldered, due to the fact that I thought the microcontroller only needed to be soldered at the ends. Due to the microcontroller not being fully soldered, the LED display would also need to be desoldered, which is why I ended up making a Robot Badge which has two lights that blink.
