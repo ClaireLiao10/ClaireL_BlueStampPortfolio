@@ -1,5 +1,5 @@
-# Prank Tissue Box
-Want to take a tissue from this tissue box? Well, too bad! This tissue box will move away whenever a person reaches in for tissues.
+# Prank Trick-o-Treat Bowl
+When I was a little kid, I have always wanted to prank the kids who would steal my candy. So, during this Hallowen, with the use of an ultrasonic sensor, this special trick-o-treat bowl can detect any hand that is ten centimeters away from reaching to grab the candy.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
