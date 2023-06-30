@@ -74,17 +74,25 @@ long microsecondsToInches(long microseconds) {
 
 
 
-<!--# Bill of Materials
+# Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Half-sized Breadboard | Wiring | $6.69 for 4 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_1_sspa?keywords=half+size+breadboard&qid=1688167291&sprefix=half+sized+breadboar%2Caps%2C163&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Uno | Wiring | $28.50 for 1 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B008GRTSV6/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=3501c7a23c342f753fd19465a2e9adf6&content-id=amzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a%3Aamzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a&hsa_cr_id=5130128880501&pd_rd_plhdr=t&pd_rd_r=3633b2c4-86a6-44d5-8f75-0141cd6e67c6&pd_rd_w=PkwM9&pd_rd_wg=QUd03&qid=1688167520&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| DC Motor and wheels | Makes the contraption move | $10.99 for 4 | <a href="[[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Gikfun-Miniature-Motors-Arduino-Projects/dp/B07SQXRSNR/ref=sr_1_1_sspa?crid=1C2AKRH232BXX&keywords=arduino+dc+motor&qid=1688167706&sprefix=arduino+dc+motor%2Caps%2C143&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)](https://www.amazon.com/AEDIKO-Motor-Gearbox-Shaft-200RPM/dp/B099Z85573/ref=sr_1_3?crid=2ZENV625HNXZE&keywords=dc+motor+wheels&qid=1688167968&sprefix=dc+motor+wheel%2Caps%2C161&sr=8-3)"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| 9V Battery | Powers the contraption | $28.38 for 8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/s?k=9v+battery&crid=EKEIHBUGAF7Q&sprefix=9v+battery%2Caps%2C218&ref=nb_sb_noss_1)"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| 9V Battery Clip | Connects the battery to the rest of the system | $28.38 for 8 | <a href="[[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/s?k=9v+battery&crid=EKEIHBUGAF7Q&sprefix=9v+battery%2Caps%2C218&ref=nb_sb_noss_1)](https://www.amazon.com/Battery-Connector-Plastic-Experiment-Equipment/dp/B08SL9X2YC/ref=sr_1_1_sspa?crid=39FUGXGZIKOQN&keywords=9v+battery+clip&qid=1688167865&sprefix=9v+battery+clip%2Caps%2C176&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Ultrasonic Sensor with jumper wires | Senses an object from a specified distance | $28.38 for 8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/s?k=9v+battery&crid=EKEIHBUGAF7Q&sprefix=9v+battery%2Caps%2C218&ref=nb_sb_noss_1)"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Jumper Wires | Connects the system together | $7.99 for 120 wires | <a href="[[[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/s?k=9v+battery&crid=EKEIHBUGAF7Q&sprefix=9v+battery%2Caps%2C218&ref=nb_sb_noss_1)](https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_3?crid=1MPVE0SL4VS5W&keywords=ultrasonic+sensor&qid=1688168061&sprefix=ultasonic+sens%2Caps%2C180&sr=8-3)](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=d_bmx_dp_uhfjj9ro_sccl_2_2/132-3821963-3562760?pd_rd_w=Etweb&content-id=amzn1.sym.89512a7c-a919-49e3-b2b6-29bdaca4f3b5&pf_rd_p=89512a7c-a919-49e3-b2b6-29bdaca4f3b5&pf_rd_r=0N6A5MXZBW5KZWSQ98G7&pd_rd_wg=6U1Vu&pd_rd_r=58fe668b-a1ed-4e8f-944f-0a664afe1d5a&pd_rd_i=B07GD2BWPY&psc=1)"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples
