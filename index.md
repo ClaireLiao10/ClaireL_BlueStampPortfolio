@@ -1,5 +1,5 @@
 # Prank Trick-o-Treat Bowl
-When I was a little kid, I have always wanted to prank the kids who would steal my candy. So, during this Hallowen, with the use of an ultrasonic sensor, this special trick-o-treat bowl can detect any hand that is ten centimeters away from reaching to grab the candy.
+When I was a little kid, I have always wanted to prank the kids who would steal my candy. So, during this Halloween, with the use of an ultrasonic sensor, this special trick-o-treat bowl can detect any hand that is ten centimeters away that reaching to grab the candy. Once this sensor detects the hand, the wheels will move away from the hand. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
