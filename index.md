@@ -80,7 +80,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Half-sized Breadboard | Wiring | $6.69 for 4 | <a href="[https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_1_sspa?crid=31K04157SZAID&keywords=half+size+breadboard&qid=1688768235&sprefix=half+size+breadboard%2Caps%2C467&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1](https://www.amazon.com/Half-Size-breadboard-Adafruit-64/dp/B00HPLNVHQ)> Link </a> |
+| Half-sized Breadboard | Wiring | $6.69 for 4 | <a href ="[https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_1_sspa?crid=31K04157SZAID&keywords=half+size+breadboard&qid=1688768235&sprefix=half+size+breadboard%2Caps%2C467&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1](https://www.amazon.com/Half-Size-breadboard-Adafruit-64/dp/B00HPLNVHQ)> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno | Wiring | $28.50 for 1 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B008GRTSV6/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=3501c7a23c342f753fd19465a2e9adf6&content-id=amzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a%3Aamzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a&hsa_cr_id=5130128880501&pd_rd_plhdr=t&pd_rd_r=3633b2c4-86a6-44d5-8f75-0141cd6e67c6&pd_rd_w=PkwM9&pd_rd_wg=QUd03&qid=1688167520&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124)"> Link </a> |
 |:--:|:--:|:--:|:--:|
