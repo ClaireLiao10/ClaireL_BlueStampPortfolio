@@ -149,6 +149,8 @@ void loop() {
 | 9V Battery Clip | Connects the battery to the rest of the system | $28.38 for 8 | <a href="https://www.amazon.com/s?k=9v+battery&crid=EKEIHBUGAF7Q&sprefix=9v+battery%2Caps%2C218&ref=nb_sb](https://www.amazon.com/Battery-Connector-Plastic-Experiment-Equipment/dp/B08SL9X2YC/ref=sr_1_1_sspa?crid=39FUGXGZIKOQN&keywords=9v+battery+clip&qid=1688167865&sprefix=9v+battery+clip%2Caps%2C176&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Ultrasonic Sensor with jumper wires | Senses an object from a specified distance | $28.38 for 8 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Jumper Wires | Connects the system together | $7.99 for 120 wires | <a href="https://www.amazon.com/EDGELEC-Optional-Breadboard-Assorted-Multicolored/dp/B07GCZ52WF"> Link </a> |
+| L298 Motor Driver | Controls the motors | $11.49 for 4 drivers | <a href="https://www.amazon.com/HiLetgo-Controller-Stepper-H-Bridge-Mega2560/dp/B07BK1QL5T/ref=sr_1_1_sspacrid=1M3O6P586RT3E&keywords=l298+motor+driver&qid=1688168462&s=industrial&sprefix=%2Cindustrial%2C288&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| USB Cable | Connects the system with the computer | $11.49 for 4 drivers | <a href="https://www.amazon.com/Amazon-Basics-External-Gold-Plated-Connectors/dp/B00NH13DV2"> Link </a> |
 
 <!--# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
