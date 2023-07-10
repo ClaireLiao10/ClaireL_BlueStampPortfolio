@@ -141,7 +141,7 @@ void loop() {
 
 # Bill of Materials
 | **Part** | **Note** | **Price** | **Link** |
-
+|:--:|:--:|:--:|:--:|
 | Half-sized Breadboard | Wiring | $6.69 for 4 | <a href ="https://www.amazon.com/Qunqi-point-Experiment-Breadboard-5-5×8-2×0-85cm/dp/B0135IQ0ZC/ref=asc_df_B0135IQ0ZC/?tag=hyprod-20&linkCode=df0&hvadid=198091709182&hvpos=&hvnetw=g&hvrand=16296269868778412770&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-407203040794&psc=1"> Link </a> |
 
 | Arduino Uno | Wiring | $28.50 for 1 | <a href=""> Link </a> |
