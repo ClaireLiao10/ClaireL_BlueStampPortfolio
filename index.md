@@ -29,7 +29,8 @@ My modification was to add an LED Matrix to my project. I decided to add an LED 
 For my starter project, I was originally supposed to work on the Arduino clock; however, due to a few mistakes that I made, such as soldering components incorrectly, I had a change of plans and decided to work on a different starter project. Although I didn't end up finishing the Arduino clock, I learned a lot. For example, I learned to follow instructions very closely and to solder everything. For example, the microcontroller was not fully soldered due to the fact that I thought it only needed to be soldered at the ends. Due to the microcontroller not being fully soldered, the LED display would also need to be desoldered, which is why I ended up making a Robot Badge that has two lights that blink. The Robot Badge is a badge that has two LEDs that never stop blinking. Inside the Robot Badge are resistors and transistors that were already soldered in, so I only had to solder in the LEDs. The Robot Badge went by really smoothly, and there were not many challenges that I had to go through.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
+![schematics](schematics1.png)
+![photo](schematics2.png)
 
 # Code
 
